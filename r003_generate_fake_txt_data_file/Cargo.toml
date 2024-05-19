@@ -1,0 +1,8 @@
+[package]
+name = "r003_generate_fake_txt_data_file"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+fake = { version = "2.9", features = ["derive"] }
+chrono = "0.4"
