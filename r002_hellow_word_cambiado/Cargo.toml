@@ -1,0 +1,10 @@
+[package]
+name = "r002_hellow_word_cambiado"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+path = "src/hellow_word.rs"
+name = "HolaRust"
+
+[dependencies]
